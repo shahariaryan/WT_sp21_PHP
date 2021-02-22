@@ -181,5 +181,5 @@
 					<input type="text" name="zip"  value="<?php echo $pcode;?>">
 					<span><?php echo $err_code;?></span><span><?php echo $err_number;?></span></td>
 				</tr>
-				<tr>
+				<tr>;
 	 			
